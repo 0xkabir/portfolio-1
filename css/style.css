@@ -18,7 +18,7 @@ section{
     background-repeat: no-repeat;
 }
 .dream-big{
-    background-image: url(/portfolio-1/assets/dream-bg.png);
+    background-image: url("/portfolio-1/assets/dream-bg.png");
     background-position: right;
     background-repeat: no-repeat;
 }
